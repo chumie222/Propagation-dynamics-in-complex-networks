@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//include/network/network_basic_ops.h=UTF-8
+encoding//include/network/network_total.h=UTF-8
+encoding//src/double_infection.cpp=UTF-8
+encoding//src/network/ER_network.cpp=UTF-8
+encoding//src/network/SF_network.cpp=UTF-8
+encoding//src/network/network_basic_ops.cpp=UTF-8
